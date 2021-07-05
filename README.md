@@ -18,8 +18,8 @@ Segment the dataset and draw unique insights, including visusalisation of the tr
 ## Task 2: Predictive Analytics
 Explore correlations between customer attributes, build a regression and a decision-tree prediction model based on your findings.
 
-Using the same transaction dataset, identify the annual salary for each customer.
-Explore correlations between annual salary and various customer attributes. These attributes could be those that are readily available in the data or those that you construct or derive yourself. Visualise any interesting correlations using a scatter plot.
-Build a simple regression model to predict the annual salary for each customer using the attributes you identified above.
-How accurate is your model? Should ANZ use it to segment customers into income brackets for reporting purposes?
-For a challenge: build a decision-tree based model to predict salary. Does it perform better? How would you accurately test the performance of this model?
+* Using the same transaction dataset, identify the annual salary for each customer.
+* Explore correlations between annual salary and various customer attributes. These attributes could be those that are readily available in the data or those that you construct or derive yourself. Visualise any interesting correlations using a scatter plot.
+* Build a simple regression model to predict the annual salary for each customer using the attributes you identified above.
+* How accurate is your model? Should ANZ use it to segment customers into income brackets for reporting purposes?
+* For a challenge: build a decision-tree based model to predict salary. Does it perform better? How would you accurately test the performance of this model?
